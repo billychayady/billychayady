@@ -1,4 +1,4 @@
-![Billy Chayady](.img/github-header-image.png)
+![Billy Chayady](img/github-header-image.png)
 
 
 #### Skills
